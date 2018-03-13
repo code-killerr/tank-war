@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tank war.Plugins", "tank war.Plugins.csproj", "{DF7F18D0-619F-214E-9324-1B1A1DC60C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tank war", "tank war.csproj", "{13C837B7-7859-7B92-3E7D-6A57B7B0A749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tank war.Editor", "tank war.Editor.csproj", "{686D8B79-2E32-19A8-1D34-CD0876D36220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7F18D0-619F-214E-9324-1B1A1DC60C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7F18D0-619F-214E-9324-1B1A1DC60C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7F18D0-619F-214E-9324-1B1A1DC60C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7F18D0-619F-214E-9324-1B1A1DC60C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C837B7-7859-7B92-3E7D-6A57B7B0A749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C837B7-7859-7B92-3E7D-6A57B7B0A749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C837B7-7859-7B92-3E7D-6A57B7B0A749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C837B7-7859-7B92-3E7D-6A57B7B0A749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686D8B79-2E32-19A8-1D34-CD0876D36220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686D8B79-2E32-19A8-1D34-CD0876D36220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686D8B79-2E32-19A8-1D34-CD0876D36220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686D8B79-2E32-19A8-1D34-CD0876D36220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
