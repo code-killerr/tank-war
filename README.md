@@ -1,2 +1,2 @@
 # tank-war
-the scrip of my game "tank war"
+a game adapted from unity "tank war"
