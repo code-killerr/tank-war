@@ -1,32 +1,111 @@
 Initialize engine version: 5.6.0f3 (497a0f351392)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GT 740M (ID=0xfdf)
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
     Vendor:   NVIDIA
-    VRAM:     1991 MB
-    Driver:   10.18.13.6839
+    VRAM:     3072 MB
+    Driver:   23.21.13.8927
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\unity 3d\tank war1\tank war\tank war_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\unity 3d\tank war1\tank war\tank war_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\unity 3d\tank war1\tank war\tank war_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\unity 3d\tank war1\tank war\tank war_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\unity 3d\tank war1\tank war\tank war_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\unity 3d\tank war1\tank war\tank war_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\unity 3d\tank war1\tank war\tank war_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\unity 3d\tank war1\tank war\tank war_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\unity 3d\tank war1\tank war\tank war_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\unity 3d\tank war1\tank war\tank war_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\unity 3d\tank war1\tank war\tank war_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading D:\unity 3d\tank war1\tank war\tank war_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.066 seconds
-Platform assembly: D:\unity 3d\tank war1\tank war\tank war_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\unity 3d\tank war1\tank war\tank war_Data\Managed\System.dll (this message is harmless)
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: E:\unity\tank-war\tank war_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\unity\tank-war\tank war_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\unity\tank-war\tank war_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\unity\tank-war\tank war_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\unity\tank-war\tank war_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\unity\tank-war\tank war_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\unity\tank-war\tank war_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\unity\tank-war\tank war_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\unity\tank-war\tank war_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\unity\tank-war\tank war_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\unity\tank-war\tank war_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\unity\tank-war\tank war_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: E:\unity\tank-war\tank war_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\unity\tank-war\tank war_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.943306 ms
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 22b8 -> priority: 1 
-  Thread -> id: 2604 -> priority: 1 
+UnloadTime: 1.670563 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 41e0 -> priority: 1 
+  Thread -> id: 4220 -> priority: 1 
+  Thread -> id: 3b44 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.931530 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.886518 ms (FindLiveObjects: 0.131646 ms CreateObjectMapping: 0.035008 ms MarkObjects: 0.691783 ms  DeleteObjects: 0.025162 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.946688 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 1.339805 ms (FindLiveObjects: 0.142951 ms CreateObjectMapping: 0.060170 ms MarkObjects: 1.112250 ms  DeleteObjects: 0.022609 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.283281 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 1.435349 ms (FindLiveObjects: 0.176136 ms CreateObjectMapping: 0.074757 ms MarkObjects: 1.073959 ms  DeleteObjects: 0.106848 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.142517 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.678654 ms (FindLiveObjects: 0.151703 ms CreateObjectMapping: 0.063088 ms MarkObjects: 0.441617 ms  DeleteObjects: 0.020421 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.078335 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.749036 ms (FindLiveObjects: 0.190358 ms CreateObjectMapping: 0.041572 ms MarkObjects: 0.489390 ms  DeleteObjects: 0.024797 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.878859 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.796444 ms (FindLiveObjects: 0.145868 ms CreateObjectMapping: 0.064182 ms MarkObjects: 0.567429 ms  DeleteObjects: 0.016410 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.142153 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.691418 ms (FindLiveObjects: 0.064911 ms CreateObjectMapping: 0.025162 ms MarkObjects: 0.566335 ms  DeleteObjects: 0.033914 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.750495 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 1.065207 ms (FindLiveObjects: 0.165196 ms CreateObjectMapping: 0.065640 ms MarkObjects: 0.816136 ms  DeleteObjects: 0.014951 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.932466 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.510541 ms (FindLiveObjects: 0.064182 ms CreateObjectMapping: 0.028809 ms MarkObjects: 0.400045 ms  DeleteObjects: 0.015680 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.324124 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.567065 ms (FindLiveObjects: 0.075122 ms CreateObjectMapping: 0.028809 ms MarkObjects: 0.445629 ms  DeleteObjects: 0.016410 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.101309 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.798267 ms (FindLiveObjects: 0.116330 ms CreateObjectMapping: 0.035737 ms MarkObjects: 0.627236 ms  DeleteObjects: 0.016774 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.976227 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.452558 ms (FindLiveObjects: 0.056888 ms CreateObjectMapping: 0.023339 ms MarkObjects: 0.356649 ms  DeleteObjects: 0.014951 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.825982 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1178.
+Total: 0.566335 ms (FindLiveObjects: 0.145504 ms CreateObjectMapping: 0.044125 ms MarkObjects: 0.360660 ms  DeleteObjects: 0.014222 ms)
+
